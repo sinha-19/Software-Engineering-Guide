@@ -1,6 +1,6 @@
-# SE-Interview-Guide
+# SE-Guide
 
-Welcome to the **SE-Interview-Guide**!
+Welcome to the **SE**!
 
 This repository is your complete roadmap for mastering Software Engineering concepts, system design, coding best practices, and interview patterns—tailored to help you excel in software engineering interviews and ace real-world projects.
 
