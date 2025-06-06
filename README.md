@@ -1,6 +1,6 @@
 # SE-Guide
 
-Welcome to the **SE**!
+Welcome to the **SE-Guide**!
 
 This repository is your complete roadmap for mastering Software Engineering concepts, system design, coding best practices, and interview patterns—tailored to help you excel in software engineering interviews and ace real-world projects.
 
@@ -8,23 +8,25 @@ This repository is your complete roadmap for mastering Software Engineering conc
 
 ## 📚 Table of Contents
 
-1. [Introduction to Software Engineering](01_Introduction_to_Software_Engineering.md)
-2. [Software Development Life Cycle (SDLC)](02_Software_Development_Life_Cycle.md)
-3. [Requirements Engineering](03_Requirements_Engineering.md)
-4. [Software Design Principles](04_Software_Design_Principles.md)
-5. [Design Patterns](05_Design_Patterns.md)
-6. [Object-Oriented Programming & Principles (OOP)](06_Object_Oriented_Programming.md)
-7. [Version Control & Collaboration (Git, GitHub)](07_Version_Control_and_Collaboration.md)
-8. [Testing & Quality Assurance](08_Testing_and_Quality_Assurance.md)
-9. [Software Architecture & System Design](09_Software_Architecture_and_System_Design.md)
-10. [Databases & Data Management](10_Databases_and_Data_Management.md)
-11. [APIs & Web Services](11_APIs_and_Web_Services.md)
-12. [DevOps & Continuous Integration/Deployment (CI/CD)](12_DevOps_and_CI_CD.md)
-13. [Scalability, Performance & Reliability](13_Scalability_Performance_and_Reliability.md)
-14. [Security in Software Engineering](14_Security_in_Software_Engineering.md)
-15. [Agile, Scrum & Project Management](15_Agile_Scrum_and_Project_Management.md)
-16. [Coding Best Practices & Code Reviews](16_Coding_Best_Practices_and_Code_Reviews.md)
-17. [Interview Patterns, Soft Skills & Q&A](17_Interview_Patterns_SoftSkills_and_QA.md)
+| #  | Topic | Video Link |
+|----|-------|-----------|
+| 1  | [Introduction to Software Engineering](01_Introduction_to_Software_Engineering.md) | [video](https://www.youtube.com/results?search_query=Introduction+to+Software+Engineering) |
+| 2  | [Software Development Life Cycle (SDLC)](02_Software_Development_Life_Cycle.md) | [video](https://www.youtube.com/results?search_query=Software+Development+Life+Cycle+SDLC) |
+| 3  | [Requirements Engineering](03_Requirements_Engineering.md) | [video](https://www.youtube.com/results?search_query=Requirements+Engineering+in+Software+Engineering) |
+| 4  | [Software Design Principles](04_Software_Design_Principles.md) | [video](https://www.youtube.com/results?search_query=Software+Design+Principles+SOLID+DRY+KISS) |
+| 5  | [Design Patterns](05_Design_Patterns.md) | [video](https://www.youtube.com/results?search_query=Software+Design+Patterns+with+Examples) |
+| 6  | [Object-Oriented Programming & Principles (OOP)](06_Object_Oriented_Programming.md) | [video](https://www.youtube.com/results?search_query=Object+Oriented+Programming+Principles) |
+| 7  | [Version Control & Collaboration (Git, GitHub)](07_Version_Control_and_Collaboration.md) | [video](https://www.youtube.com/results?search_query=Git+and+GitHub+for+Beginners) |
+| 8  | [Testing & Quality Assurance](08_Testing_and_Quality_Assurance.md) | [video](https://www.youtube.com/results?search_query=Software+Testing+and+Quality+Assurance) |
+| 9  | [Software Architecture & System Design](09_Software_Architecture_and_System_Design.md) | [video](https://www.youtube.com/results?search_query=Software+Architecture+System+Design+Interview) |
+| 10 | [Databases & Data Management](10_Databases_and_Data_Management.md) | [video](https://www.youtube.com/results?search_query=Databases+and+Data+Management+for+Software+Engineers) |
+| 11 | [APIs & Web Services](11_APIs_and_Web_Services.md) | [video](https://www.youtube.com/results?search_query=APIs+Web+Services+REST+GraphQL) |
+| 12 | [DevOps & Continuous Integration/Deployment (CI/CD)](12_DevOps_and_CI_CD.md) | [video](https://www.youtube.com/results?search_query=DevOps+CI+CD+Pipeline+Jenkins+GitHub+Actions) |
+| 13 | [Scalability, Performance & Reliability](13_Scalability_Performance_and_Reliability.md) | [video](https://www.youtube.com/results?search_query=Scalability+Performance+Reliability+System+Design) |
+| 14 | [Security in Software Engineering](14_Security_in_Software_Engineering.md) | [video](https://www.youtube.com/results?search_query=Software+Engineering+Security+OWASP+Top+10) |
+| 15 | [Agile, Scrum & Project Management](15_Agile_Scrum_and_Project_Management.md) | [video](https://www.youtube.com/results?search_query=Agile+Scrum+Project+Management+Software+Engineering) |
+| 16 | [Coding Best Practices & Code Reviews](16_Coding_Best_Practices_and_Code_Reviews.md) | [video](https://www.youtube.com/results?search_query=Coding+Best+Practices+Code+Review) |
+| 17 | [Interview Patterns, Soft Skills & Q&A](17_Interview_Patterns_SoftSkills_and_QA.md) | [video](https://www.youtube.com/results?search_query=Software+Engineering+Interview+Questions+Soft+Skills) |
 
 ---
 
@@ -37,6 +39,7 @@ This repository is your complete roadmap for mastering Software Engineering conc
   - **Key interview questions**
   - **Best practices**
   - **References and exercises**
+- For a deeper understanding or visual learning, click the [video] link next to each topic for curated YouTube results.
 
 ---
 
